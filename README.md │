@@ -1,0 +1,30 @@
+# 🤖 Smartify AI – Customer Support Chatbot
+
+An AI-powered customer support chatbot built with Python, Streamlit, and Google Gemini.
+
+## Features
+
+- 🤖 Gemini AI customer support
+- 📄 PDF knowledge base
+- 🔍 Document-based question answering
+- 💬 Chat history
+- ⚡ Streaming AI responses
+- 📚 Source references
+- 🎫 Human support ticket system
+- 🌐 Streamlit Cloud deployment
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Google Gemini API
+- PyPDF
+- RAG / document retrieval
+- GitHub
+- Streamlit Cloud
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python -m streamlit run app.py
