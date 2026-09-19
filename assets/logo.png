@@ -1,0 +1,1 @@
+st.sidebar.image("assets/logo.png", width=120)
